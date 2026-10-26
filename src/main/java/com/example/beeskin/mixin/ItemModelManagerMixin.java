@@ -1,7 +1,7 @@
 package com.example.beeskin.mixin;
 
 import com.example.beeskin.BeeSkinClient;
-import net.minecraft.client.render.item.ItemModelManager;
+import net.minecraft.client.item.ItemModelManager;
 import net.minecraft.component.DataComponentTypes;
 import net.minecraft.item.ItemStack;
 import org.spongepowered.asm.mixin.Mixin;
